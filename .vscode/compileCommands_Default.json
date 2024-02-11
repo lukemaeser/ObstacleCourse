@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\Luke\\Documents\\Unreal Projects\\ObstacleCourse\\Source\\ObstacleCourse\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Luke\\Documents\\Unreal Projects\\ObstacleCourse\\.vscode\\compileCommands_Default\\ObstacleCourse.205.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Luke\\Documents\\Unreal Projects\\ObstacleCourse\\Source\\ObstacleCourse\\MovingPlatform.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Luke\\Documents\\Unreal Projects\\ObstacleCourse\\.vscode\\compileCommands_Default\\ObstacleCourse.205.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Luke\\Documents\\Unreal Projects\\ObstacleCourse\\Source\\ObstacleCourse\\ObstacleCourse.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Luke\\Documents\\Unreal Projects\\ObstacleCourse\\.vscode\\compileCommands_Default\\ObstacleCourse.205.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Luke\\Documents\\Unreal Projects\\ObstacleCourse\\Source\\ObstacleCourse\\ObstacleCourse.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Luke\\Documents\\Unreal Projects\\ObstacleCourse\\.vscode\\compileCommands_Default\\ObstacleCourse.205.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Luke\\Documents\\Unreal Projects\\ObstacleCourse\\Source\\ObstacleCourse\\ObstacleCourse.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Luke\\Documents\\Unreal Projects\\ObstacleCourse\\.vscode\\compileCommands_Default\\ObstacleCourse.205.rsp\"",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]

@@ -1,4 +1,4 @@
-# ObstacleCourseGame
+# Obstacle Course Game
 Developed through Unreal, the project is written using C++ and Blueprint Visual Scripting and demonstrates the following skills:
 #
 * ## Unreal Engine:
